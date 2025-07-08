@@ -472,6 +472,25 @@ DATABASE_URL=your_database_url
 - 
 ---
 
+# 🚀 Raise Your Hack Hackathon – lablab.ai 2025
+
+
+![raise your hackathon](https://github.com/user-attachments/assets/440d59c6-04c5-4c42-9886-ceccc144829b)
+# 🧳 AI Travel Planner
+- ![login page](https://github.com/user-attachments/assets/ac8ab04e-79c2-4922-a995-8993f8432ec6)
+- ![create account](https://github.com/user-attachments/assets/11127640-b06f-491d-8aa5-e011560e1309)
+- ![forgot password](https://github.com/user-attachments/assets/6440bd85-8deb-46bc-a03e-0201c2e6440d)
+
+- ![plan trip](https://github.com/user-attachments/assets/e8ab86fa-f5ed-4ee5-80de-57c99b174241)
+
+- ![detail](https://github.com/user-attachments/assets/66ac8dcf-c4a0-41c4-adcf-b7aff49851b4)
+- ![details](https://github.com/user-attachments/assets/96605d12-9195-4a14-92be-cd2a14217c14)
+- ![profile](https://github.com/user-attachments/assets/681992c4-cb01-4839-8e73-10b43d32e855)
+- ![profile_details](https://github.com/user-attachments/assets/cc6decdf-2532-47ee-9bcc-eadb9b891d50)
+- ![edit plan](https://github.com/user-attachments/assets/893129d4-0f7f-43f9-bcd0-308314fb7bbd)
+
+
+
 ## 🙋‍♂️ Authors & Contributors
 
 [Ahmad gul]
@@ -492,8 +511,6 @@ DATABASE_URL=your_database_url
 
 
 
----
-
 ## 🔄 Version History
 
 - **v1.0.0** - Initial release with core features
@@ -504,26 +521,6 @@ DATABASE_URL=your_database_url
 ---
 
 *Last updated: [8/7/2025]* 
-
-# 🚀 Raise Your Hack Hackathon – lablab.ai 2025
-
-
-![raise your hackathon](https://github.com/user-attachments/assets/440d59c6-04c5-4c42-9886-ceccc144829b)
-# 🧳 AI Travel Planner
-- ![login page](https://github.com/user-attachments/assets/ac8ab04e-79c2-4922-a995-8993f8432ec6)
-- ![create account](https://github.com/user-attachments/assets/11127640-b06f-491d-8aa5-e011560e1309)
-- ![forgot password](https://github.com/user-attachments/assets/6440bd85-8deb-46bc-a03e-0201c2e6440d)
-
-- ![plan trip](https://github.com/user-attachments/assets/e8ab86fa-f5ed-4ee5-80de-57c99b174241)
-
-- ![detail](https://github.com/user-attachments/assets/66ac8dcf-c4a0-41c4-adcf-b7aff49851b4)
-- ![details](https://github.com/user-attachments/assets/96605d12-9195-4a14-92be-cd2a14217c14)
-- ![profile](https://github.com/user-attachments/assets/681992c4-cb01-4839-8e73-10b43d32e855)
-- ![profile_details](https://github.com/user-attachments/assets/cc6decdf-2532-47ee-9bcc-eadb9b891d50)
-- ![edit plan](https://github.com/user-attachments/assets/893129d4-0f7f-43f9-bcd0-308314fb7bbd)
-
-
-
 
 
 
