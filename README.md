@@ -1,3 +1,9 @@
+
+
+# 🚀 Raise Your Hack Hackathon – lablab.ai 2025
+
+# 🧳 AI Travel Planner project
+
 ## 📚 Table of Contents
 - 🔖 <u>[📄 Overview](#-overview)</u>
 - ✨ <u>[Features](#-features)</u>
@@ -470,8 +476,6 @@ DATABASE_URL=your_database_url
 
 [Ahmad gul]
 [Muqaddas Akram]
-[Habiba sidique]
-[usama]
 
 ### Acknowledgments
 - Groq for AI model access
@@ -488,6 +492,24 @@ DATABASE_URL=your_database_url
 
 
 
+---
+
+## 🔄 Version History
+
+- **v1.0.0** - Initial release with core features
+- **v1.1.0** - Added profile export and management
+- **v1.2.0** - Enhanced UI and responsive design
+- **v1.3.0** - Added comprehensive testing suite
+
+---
+
+*Last updated: [8/7/2025]* 
+
+# 🚀 Raise Your Hack Hackathon – lablab.ai 2025
+
+
+![raise your hackathon](https://github.com/user-attachments/assets/440d59c6-04c5-4c42-9886-ceccc144829b)
+# 🧳 AI Travel Planner
 - ![login page](https://github.com/user-attachments/assets/ac8ab04e-79c2-4922-a995-8993f8432ec6)
 - ![create account](https://github.com/user-attachments/assets/11127640-b06f-491d-8aa5-e011560e1309)
 - ![forgot password](https://github.com/user-attachments/assets/6440bd85-8deb-46bc-a03e-0201c2e6440d)
@@ -513,15 +535,4 @@ DATABASE_URL=your_database_url
 
 
 
----
 
-## 🔄 Version History
-
-- **v1.0.0** - Initial release with core features
-- **v1.1.0** - Added profile export and management
-- **v1.2.0** - Enhanced UI and responsive design
-- **v1.3.0** - Added comprehensive testing suite
-
----
-
-*Last updated: [Current Date]* 
